@@ -2,10 +2,10 @@
   <body>
     <h1>Welcome to ETR's GitHub Page!</h1>
     <h3>Here you'll find all sorts of cool stuff. Here's all of them. The pages themselves are pretty bland looking though.</h3>
-    <a href="easontekreviews2398.github.io/reactos-daily">ReactOS Daily Builds</a>
+    <a href="reactos-daily">ReactOS Daily Builds</a>
     <br>
-    <a href="easontekreviews2398.github.io/calcplusplus-publicbeta">CalcPlusPlus Public Beta Channel</a>
+    <a href="calcplusplus-publicbeta">CalcPlusPlus Public Beta Channel</a>
     <br>
-    <a href="easontekreviews2398.github.io/calcplusplusmac">CalculatorPlusPlus on MacOS</a>
+    <a href="calcplusplusmac">CalculatorPlusPlus on MacOS</a>
   </body>
 </html>
