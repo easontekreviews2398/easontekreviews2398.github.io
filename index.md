@@ -10,15 +10,15 @@
     <a href="calcplusplusmac">CalculatorPlusPlus Binaries on MacOS</a>
     <br>
     <h3>Beta Profiles</h3>
-    <a href="#">iOS 14 Devbeta</a>
+    <a href="https://github.com/easontekreviews2398/easontekreviews2398.github.io/raw/main/iOS14.mobileconfig">iOS 14 Devbeta</a>
     <br>
-    <a href="#">iPadOS 14 Devbeta</a>
+    <a href="https://github.com/easontekreviews2398/easontekreviews2398.github.io/raw/main/iPadOS14.mobileconfig">iPadOS 14 Devbeta</a>
     <br>
-    <a href="#">macOS BigSur Devbeta</a>
+    <a href="https://github.com/easontekreviews2398/easontekreviews2398.github.io/raw/main/macOSDevBetaAccessUtil.dmg">macOS BigSur Devbeta</a>
     <br>
-    <a href="#">TVOS 14 Devbeta</a>
+    <a href="https://github.com/easontekreviews2398/easontekreviews2398.github.io/raw/main/TVOS14.mobileconfig">TVOS 14 Devbeta</a>
     <br>
-    <a href="#">WatchOS 7 Devbeta</a>
+    <a href="https://github.com/easontekreviews2398/easontekreviews2398.github.io/raw/main/watchOS7.mobileconfig">WatchOS 7 Devbeta</a>
     <br>
   </body>
 </html>
