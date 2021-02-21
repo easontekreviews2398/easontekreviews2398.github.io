@@ -11,9 +11,14 @@
     <br>
     <h3>Beta Profiles</h3>
     <a href="#">iOS 14 Devbeta</a>
+    <br>
     <a href="#">iPadOS 14 Devbeta</a>
+    <br>
     <a href="#">macOS BigSur Devbeta</a>
+    <br>
     <a href="#">TVOS 14 Devbeta</a>
+    <br>
     <a href="#">WatchOS 7 Devbeta</a>
+    <br>
   </body>
 </html>
